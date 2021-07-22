@@ -63,7 +63,8 @@ if( !function_exists('houzez_listings_templates_metaboxes') ) {
                     'template/template-agencies.php',
                     'template/template-compare.php',
                     'template/template-search.php',
-                    'template/property-listings-map.php'
+                    'template/property-listings-map.php',
+                    'template/template-listing-grid-v1-custom.php'
                 ),
             ),
             'fields'    => array(
@@ -248,6 +249,7 @@ if( !function_exists('houzez_listings_templates_metaboxes') ) {
                     'template/template-listing-grid-v3-fullwidth-3cols.php',
                     'template/property-listings-map.php',
                     'template/properties-parallax.php',
+                    'template/template-listing-grid-v1-custom.php',
                 ),
             ),
             'fields'    => array(
